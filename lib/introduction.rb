@@ -13,7 +13,7 @@ def introduction_with_language("Josh", "Ember.js")
 end
 
 
-introduction = 
+introduction()
 
 
 
